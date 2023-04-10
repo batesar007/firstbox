@@ -1,8 +1,10 @@
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';  
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
+<<<<<<< HEAD
   return (
     <div className="App">
       <header className="App-header" >
@@ -21,6 +23,11 @@ function App() {
       </header>
     </div>
   );
+=======
+  <div className=''>
+
+  </div>
+>>>>>>> 83570722141bee525e57e6273ad0261a755d5ebd
 }
 
 export default App;
